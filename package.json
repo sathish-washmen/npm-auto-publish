@@ -1,0 +1,19 @@
+{
+  "name": "@gsg/npm-auto-publish",
+  "version": "1.0.0",
+  "description": "this project demonstrates how to auto publish npm packages",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sathish-washmen/npm-auto-publish.git"
+  },
+  "author": "Sathish Gajarla <sathish.gajarla@washmen.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sathish-washmen/npm-auto-publish/issues"
+  },
+  "homepage": "https://github.com/sathish-washmen/npm-auto-publish#readme"
+}
