@@ -15,8 +15,5 @@
   "bugs": {
     "url": "https://github.com/sathish-washmen/npm-auto-publish/issues"
   },
-  "homepage": "https://github.com/sathish-washmen/npm-auto-publish#readme",
-  "dependencies": {
-    "auto-publish-package": "^2.0.0"
-  }
+  "homepage": "https://github.com/sathish-washmen/npm-auto-publish#readme"
 }
