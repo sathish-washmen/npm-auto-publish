@@ -1,6 +1,6 @@
 {
-  "name": "@gsg/npm-auto-publish",
-  "version": "1.0.0",
+  "name": "gsg-npm-auto-publish",
+  "version": "1.0.1",
   "description": "this project demonstrates how to auto publish npm packages",
   "main": "src/index.js",
   "scripts": {
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/sathish-washmen/npm-auto-publish/issues"
   },
-  "homepage": "https://github.com/sathish-washmen/npm-auto-publish#readme"
+  "homepage": "https://github.com/sathish-washmen/npm-auto-publish#readme",
+  "dependencies": {
+    "auto-publish-package": "^2.0.0"
+  }
 }
