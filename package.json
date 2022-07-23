@@ -1,6 +1,6 @@
 {
-  "name": "@gsg/npm-auto-publish",
-  "version": "1.0.0",
+  "name": "gsg-npm-auto-publish",
+  "version": "1.0.1",
   "description": "this project demonstrates how to auto publish npm packages",
   "main": "src/index.js",
   "scripts": {
